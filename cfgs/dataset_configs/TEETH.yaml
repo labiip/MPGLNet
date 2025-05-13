@@ -1,0 +1,7 @@
+NAME: TEETH
+CATEGORY_FILE_PATH: data/tooth.json
+N_POINTS: 16384
+N_RENDERINGS: 30
+PARTIAL_POINTS_PATH: data/TEETH/%s/partial/%s/%s/%02d.pcd
+COMPLETE_POINTS_PATH: data/TEETH/%s/complete/%s/%s.pcd
+CARS: FALSE
